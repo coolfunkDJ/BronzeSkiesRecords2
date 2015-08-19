@@ -1,0 +1,45 @@
+.banner {
+	top:0px;
+	position: absolute;
+	height:19.5%;
+	background-color:#171717;	
+	z-index: -1;
+    margin-left: auto;
+    margin-right: auto;
+	margin-left: auto;
+	left: 0;
+	right: 0;
+}
+
+.banner .bannerimg {
+	position: absolute;
+	z-index: 1;
+	height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+	margin-left: auto;
+	left: 0;
+	right: 0;
+}
+
+.subbanner{
+	position:absolute;
+	background-color:#575757;
+	color:#ffffff;
+	top: 190px;
+    margin-right: auto;
+	margin-left: auto;
+	left: 0;
+	right: 0;
+	font-family: 'Open Sans', sans-serif; font-weight: 400;
+} 
+
+.text{
+	position:absolute;
+	background-color: #999999;
+	top:311px;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	font-family: "Open Sans", sans-serif; font-weight: 400;
