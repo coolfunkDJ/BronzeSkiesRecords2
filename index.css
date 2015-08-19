@@ -48,3 +48,29 @@
 .Text img{
 	border-color:#FFF;	
 }
+
+body {
+	background-color: #999999;	
+}
+
+.bio {
+	top: 350px;
+	position:absolute;
+	width: 100%;
+	height: 300px;
+	background-color:#FFF;	
+	font-family: "Open Sans", sans-serif; font-weight: 400;
+}
+
+.bio .artistpic {
+	position: absolute;
+	bottom:20px;
+	left:100px;
+	background-color:#FFF;
+}
+
+.bio #bioText {
+	position:absolute;
+	text-align:left;
+	left: 668px;
+}
